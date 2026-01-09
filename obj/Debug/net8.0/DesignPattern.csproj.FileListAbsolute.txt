@@ -1,0 +1,14 @@
+/home/hoanggggf/Documents/MyCode/DesignPattern/DesignPattern/bin/Debug/net8.0/DesignPattern
+/home/hoanggggf/Documents/MyCode/DesignPattern/DesignPattern/bin/Debug/net8.0/DesignPattern.deps.json
+/home/hoanggggf/Documents/MyCode/DesignPattern/DesignPattern/bin/Debug/net8.0/DesignPattern.runtimeconfig.json
+/home/hoanggggf/Documents/MyCode/DesignPattern/DesignPattern/bin/Debug/net8.0/DesignPattern.dll
+/home/hoanggggf/Documents/MyCode/DesignPattern/DesignPattern/bin/Debug/net8.0/DesignPattern.pdb
+/home/hoanggggf/Documents/MyCode/DesignPattern/DesignPattern/obj/Debug/net8.0/DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/hoanggggf/Documents/MyCode/DesignPattern/DesignPattern/obj/Debug/net8.0/DesignPattern.AssemblyInfoInputs.cache
+/home/hoanggggf/Documents/MyCode/DesignPattern/DesignPattern/obj/Debug/net8.0/DesignPattern.AssemblyInfo.cs
+/home/hoanggggf/Documents/MyCode/DesignPattern/DesignPattern/obj/Debug/net8.0/DesignPattern.csproj.CoreCompileInputs.cache
+/home/hoanggggf/Documents/MyCode/DesignPattern/DesignPattern/obj/Debug/net8.0/DesignPattern.dll
+/home/hoanggggf/Documents/MyCode/DesignPattern/DesignPattern/obj/Debug/net8.0/refint/DesignPattern.dll
+/home/hoanggggf/Documents/MyCode/DesignPattern/DesignPattern/obj/Debug/net8.0/DesignPattern.pdb
+/home/hoanggggf/Documents/MyCode/DesignPattern/DesignPattern/obj/Debug/net8.0/DesignPattern.genruntimeconfig.cache
+/home/hoanggggf/Documents/MyCode/DesignPattern/DesignPattern/obj/Debug/net8.0/ref/DesignPattern.dll
