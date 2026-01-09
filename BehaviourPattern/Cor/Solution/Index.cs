@@ -127,6 +127,12 @@ public class Chain<TData>
         return Execute(request);
     }
 
+    public Handler<TData>? Build()
+    {
+        RebuildChain();
+        return _head;
+    }
+
     public IReadOnlyList<Handler<TData>> GetHandlers() => _handlers.AsReadOnly();
 
     public void Clear()

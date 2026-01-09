@@ -12,3 +12,4 @@
 /home/hoanggggf/Documents/MyCode/DesignPattern/DesignPattern/obj/Debug/net8.0/DesignPattern.pdb
 /home/hoanggggf/Documents/MyCode/DesignPattern/DesignPattern/obj/Debug/net8.0/DesignPattern.genruntimeconfig.cache
 /home/hoanggggf/Documents/MyCode/DesignPattern/DesignPattern/obj/Debug/net8.0/ref/DesignPattern.dll
+/home/hoanggggf/Documents/MyCode/DesignPattern/DesignPattern/obj/Debug/net8.0/DesignPattern.sourcelink.json
