@@ -1,4 +1,4 @@
-namespace DesignPattern.StructuralPattern.Decorator.Notification.Services;
+namespace DesignPattern.StructuralPattern.Decorator.Notification.Services.Strategies;
 
 public class FacebookNotification : INotification
 {
